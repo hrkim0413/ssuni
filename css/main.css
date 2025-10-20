@@ -86,6 +86,7 @@ article>a>img {
   max-height: 350px;
   height: 29.1666vw;
   /* 1200 기준 350 */
+  object-fit: cover;
 }
 
 /* story */
